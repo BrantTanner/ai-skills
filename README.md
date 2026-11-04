@@ -18,6 +18,8 @@ npx skills add BrantTanner/ai-skills -g
 
 ## Available skills
 
+- [TODO](skills/todo/SKILL.md): Explicitly invoked planning and execution with a fixed TODO list, verified completion, and no unapproved scope expansion.
+
 - [implement-tickets](skills/implement-tickets/SKILL.md): Implement vertical-slice tickets from to-tickets one at a time, with a fresh subagent per ticket and main-agent review and correction.
 
 - [night-shift](skills/night-shift/SKILL.md): Work through an assigned backlog while you are AFK, one task at a time, with subagent implementation, main-agent review, deferred blockers, and a final report.
