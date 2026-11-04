@@ -9,7 +9,9 @@ Turn the approved tickets from `to-tickets` into working, verified vertical slic
 
 ## Gather the handoff
 
-Use the ticket set identified by the user or current conversation. Read the full tickets, acceptance criteria, blocking relationships, relevant comments, and source spec or plan. For local tickets, look under `.scratch/<feature-slug>/issues/`; for tracker tickets, use the configured tracker and its native blocking links where available.
+Check GitHub first for the assigned tickets. They will usually be sub-issues of a parent issue; use the repository and issue references provided by the user or established in the conversation to find them. Read the parent issue, its sub-issues, acceptance criteria, blocking relationships, relevant comments, and source spec or plan. Use native sub-issue and blocking relationships where available.
+
+If the repository, parent issue, or ticket location is unclear, ask the user where the tickets are before proceeding. Do not guess a repository, ticket set, tracker, or local directory. Use local tickets or another tracker only when the user has identified that location.
 
 Use the approved scope rather than generating a new breakdown. If multiple ticket sets are plausible, ask which set to implement. Read applicable project instructions, domain terminology, and architectural decisions, and inspect the current workspace before making changes.
 
