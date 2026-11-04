@@ -16,7 +16,9 @@ Choose the skills and coding agents when prompted. To install globally across pr
 npx skills add BrantTanner/ai-skills -g
 ```
 
-This repository currently contains no skills. These commands will become useful once skills are uploaded.
+## Available skills
+
+- [night-shift](skills/night-shift/SKILL.md): Work through an assigned backlog while you are AFK, one task at a time, with subagent implementation, main-agent review, deferred blockers, and a final report.
 
 ## Add a skill
 
