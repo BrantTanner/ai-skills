@@ -18,6 +18,8 @@ npx skills add BrantTanner/ai-skills -g
 
 ## Available skills
 
+- [commit-desc](skills/commit-desc/SKILL.md): Describe all uncommitted changes in a specific, copyable one-line Git commit command.
+
 - [dumb-it-down](skills/dumb-it-down/SKILL.md): Explicitly invoked simplification of explanations using plain language and concise answers.
 
 - [TODO](skills/todo/SKILL.md): Explicitly invoked planning and execution with a fixed TODO list, verified completion, and no unapproved scope expansion.
