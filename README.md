@@ -22,6 +22,8 @@ npx skills add BrantTanner/ai-skills -g
 
 - [dumb-it-down](skills/dumb-it-down/SKILL.md): Explicitly invoked simplification of explanations using plain language and concise answers.
 
+- [engineering-principles](skills/engineering-principles/SKILL.md): Apply project-neutral engineering principles to planning, implementation, and code review.
+
 - [TODO](skills/todo/SKILL.md): Explicitly invoked planning and execution with a fixed TODO list, verified completion, and no unapproved scope expansion.
 
 - [implement-tickets](skills/implement-tickets/SKILL.md): Implement vertical-slice tickets from to-tickets one at a time, with a fresh subagent per ticket and main-agent review and correction.
